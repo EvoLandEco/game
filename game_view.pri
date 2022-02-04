@@ -10,5 +10,3 @@ SOURCES += \
     $$PWD/menu_view.cpp \
     $$PWD/options_view.cpp \
 
-RESOURCES += \
-    game_resources.qrc
